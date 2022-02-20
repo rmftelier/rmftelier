@@ -26,73 +26,73 @@
 <br>
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="90">
       <a>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank">
       </a>
       <br>HTML
     </td>
-    <td align="center" width="96">
+    <td align="center" width="90">
       <a>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
       </a>
       <br>CSS
     </td>
-    <td align="center" width="96">
+    <td align="center" width="90">
       <a>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
       </a>
       <br>Javascript
     </td>
-    <td align="center" width="96">
+    <td align="center" width="90">
       <a>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
       </a>
       <br>C
     </td>
-     <td align="center" width="96">
+     <td align="center" width="90">
       <a>
           <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40"/>      
       </a>
       <br>C#
     </td>
-    <td align="center" width="96">
+    <td align="center" width="90">
       <a>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
       </a>
       <br>Java
     </td>
-    <td align="center" width="96">
+    <td align="center" width="90">
       <a>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
       </a>
       <br>MySql
     </td>
-    <td align="center" width="96">
+    <td align="center" width="90">
       <a>
         <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width="40" height="40"/>
       </a>
       <br>Go
     </td>
-    <td align="center" width="96">
+    <td align="center" width="90">
       <a>
         <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="40"/>
       </a>
       <br>Visual Studio 
     </td>
-    <td align="center" width="96">
+    <td align="center" width="90">
       <a>
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40"/>
       </a>
       <br>VS Code
     </td>
-    <td align="center" width="96">
+    <td align="center" width="90">
       <a>
         <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40"/>
       </a>
       <br>Figma
     </td>
-     <td align="center" width="96">
+     <td align="center" width="90">
       <a>
         <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" width="40"/>
       </a>
