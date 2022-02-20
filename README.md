@@ -11,6 +11,11 @@
 💡 Possuo interesse em ***desenvolvimento front-end*** e ***criação e manipulação de banco de dados***.
 
 
+### 🔗 Me Encontre 
+<a href="https://www.linkedin.com/in/robertameyrelles/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<a href="https://dev.to/asulside"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></img></a>
+<a href="https://www.hackerrank.com/meyfran12"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></img></a>
+
 
 ### ⚙️ Estatísticas 
 
@@ -102,9 +107,6 @@
 <br>
 
 
-### 🔗 Me Encontre 
-<a href="https://www.linkedin.com/in/robertameyrelles/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-<a href="https://dev.to/asulside"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></img></a>
-<a href="https://www.hackerrank.com/meyfran12"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></img></a>
+
 
 
