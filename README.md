@@ -14,8 +14,7 @@
 
 ### ⚙️ Estatísticas 
 
-
-<p align="center">
+<p align="left">
 <a>
     <img height ="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmftelier&hide=html&layout=compact&theme=default"/>
 </a>
