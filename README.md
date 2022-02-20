@@ -14,7 +14,7 @@
 
 <p align="left">
 <a>
-    <img height ="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmftelier&hide=html&layout=compact&theme=default"/>
+    <img height ="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmftelier&hide=html&layout=compact&theme=default"/>
 </a>
 </p>
 
