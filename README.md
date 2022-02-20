@@ -12,8 +12,11 @@
 
 ### ⚙️ Estatísticas 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmftelier&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
+ <p align="left">
+<a> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmftelier&layout=compact&theme=default" width="350"/>  
+</a>
+</p>
 
 ### 🛠️ Habilidades
 > Linguagens e ferramentas que eu uso/tive o primeiro contato na graduação:
