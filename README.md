@@ -8,7 +8,7 @@
 🌷 Pronomes: **Ela/Dela**\
 🎓 Sou graduanda em **Ciência da Computação** na Universidade Vila Velha.\
 🌱 Atualmente estou aprendendo a [linguagem Go](https://github.com/rmftelier/linguagem-go) e aperfeiçoando os meus conhecimentos em SQL, linguagem que estudo de forma autodidata.\
-💡 Possuo interesse em ***desenvolvimento front-end***, ***criação, manipulação e administração de banco de dados*** e ***ciência de dados***.
+💡 Possuo interesse em ***desenvolvimento front-end*** e ***criação, manipulação e administração de banco de dados***.
 
 ### ⚙️ Estatísticas 
 
