@@ -1,6 +1,4 @@
 
-<img src="https://github.com/rmftelier/rmftelier/blob/main/Source%20code.gif" align="right"> 
-
 <h2 align="center"> 👋 Olá, eu sou a Roberta! </h2>
 
 ### 👨🏻‍💻  Sobre Mim 
@@ -11,11 +9,11 @@
 
 ### ⚙️ Estatísticas 
 
-<p align="left">
+
 <a> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmftelier&layout=compact&theme=default"  width="290" />  
 </a>
-</p>
+
 
 
 ### 🔗 Me Encontre 
