@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻  Sobre Mim 
 
-🎓 Bacharelanda em **Ciência da Computação** pela Universidade Vila Velha.\
+🎓 Graduanda em **Ciência da Computação** pela Universidade Vila Velha.\
 ✨ Particulamente interessada em desenvolvimento front-end, área que estudo paralelamente aos estudos da graduação.
 
 
