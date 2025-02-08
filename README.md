@@ -1,7 +1,5 @@
 ## Hello, I'm Roberta! 👋
 
-<img src="https://github.com/user-attachments/assets/49919b31-ef1e-410c-aed6-12860803c95f" alt="docinho" min-width="250px" max-width="250px" width="250px" align="right" margin="10px">
-
 🇧🇷 Born and living in Espírito Santo, Brazil.
 
 🎓 Bachelor's degree in Computer Science from Universidade Vila Velha with FAPES/ES scholarship.
