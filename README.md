@@ -8,7 +8,7 @@
 
 🌱 Mainly interested in front-end development and UX/UI design.
 
-✍🏼 Currently learning: Improving my skills in HTML, CSS and JS.
+✍🏼 Currently improving my HTML, CSS and JS skills.
 
 
 ### 🛠️ Skills & Tools
