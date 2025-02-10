@@ -10,7 +10,7 @@
 
 
 ### 🛠️ Skills & Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,materialui,postgres,vscode,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,materialui,vscode,git,figma)](https://skillicons.dev)
 
 ##
 
