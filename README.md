@@ -4,7 +4,7 @@
 
 🎓 Bachelor's degree in Computer Science from Universidade Vila Velha with FAPES/ES scholarship.
 
-🌱 Mainly interested in front-end development and UX/UI design.
+🌱 Mainly interested in front-end development.
 
 ✍🏼 Currently improving my HTML, CSS and JS skills.
 
