@@ -4,13 +4,13 @@
 
 🎓 Bachelor's degree in Computer Science from Universidade Vila Velha with FAPES/ES scholarship.
 
-🌱 Mainly interested in front-end development.
+🌱 Mainly interested in full-stack development.
 
 ✍🏼 Currently improving my HTML, CSS and JS skills.
 
 
 ### 🛠️ Skills & Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,materialui,vscode,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,react,ts,cs,vscode,git,figma)](https://skillicons.dev)
 
 ##
 
